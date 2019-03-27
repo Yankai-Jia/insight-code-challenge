@@ -6,9 +6,9 @@ This project is to generate a list of all drugs, the total number of UNIQUE indi
     2. [Output]( README.md#output )
     3. [Challenge]( README.md#challenge )
 2. [Approach]( README.md#approach )
-    1. [Program Structure]( README.md#Program Structure )
-    2. [Time Complexity](README.md#Time Complexity )
-3. [Run instructions]( README.md#Run instructions)
+    1. [Program Structure]( README.md#program-structure )
+    2. [Time Complexity](README.md#time-complexity )
+3. [Run instructions]( README.md#run-instructions)
 
 # Problem
 ## Input
